@@ -1,5 +1,5 @@
-
 # 마인크래프트 서버 자동화 (mcrcon 사용)
+
 ## 요구 사항
 
 - Python 3.x
@@ -7,6 +7,8 @@
 
 ```bash
 pip install mcrcon
+```
+
 ## 설정 방법
 
 1. `server.properties` 파일을 열고 아래와 같이 RCON을 활성화하세요:
