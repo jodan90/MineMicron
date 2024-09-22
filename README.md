@@ -1,8 +1,5 @@
-```markdown
+
 # 마인크래프트 서버 자동화 (mcrcon 사용)
-
-이 프로젝트는 `mcrcon` 라이브러리를 사용하여 마인크래프트 서버를 원격으로 자동화하는 방법을 설명합니다. RCON을 통해 서버에 명령어를 전송할 수 있습니다.
-
 ## 요구 사항
 
 - Python 3.x
@@ -10,8 +7,6 @@
 
 ```bash
 pip install mcrcon
-```
-
 ## 설정 방법
 
 1. `server.properties` 파일을 열고 아래와 같이 RCON을 활성화하세요:
